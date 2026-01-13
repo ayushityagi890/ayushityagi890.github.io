@@ -4,7 +4,7 @@ title: "Testimonials"
 author: "Ayushi"
 categories: documentation
 tags: [documentation, sample]
-image: city-1.jpg
+image: testimonials.jpeg
 hide_post_date: false
 ---
 

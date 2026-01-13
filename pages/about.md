@@ -2,8 +2,8 @@
 layout: page
 title: About me
 permalink: /about
-top_image: cuba-1.jpg
-bottom_image: cuba-2.jpg
+top_image: aboutme.jpeg
+# bottom_image: cuba-2.jpg
 ---
 
 I am an early-career marketing professional with a strong

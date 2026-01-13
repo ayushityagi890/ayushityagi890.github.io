@@ -4,7 +4,7 @@ title: "Case studies"
 author: "Ayushi"
 categories: resources
 tags: [documentation, sample]
-image: arctic-2.jpg
+image: casestudy.jpeg
 hide_post_date: false
 ---
 

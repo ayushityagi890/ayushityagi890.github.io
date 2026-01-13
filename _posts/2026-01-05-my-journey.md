@@ -4,7 +4,7 @@ title: "My journey"
 author: "Ayushi"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: journey.jpeg
 hide_post_date: true
 ---
 
