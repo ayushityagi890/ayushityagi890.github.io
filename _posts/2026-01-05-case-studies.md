@@ -4,7 +4,7 @@ title: "Case studies"
 author: "Ayushi"
 categories: resources
 tags: [documentation, sample]
-image: casestudy.jpeg
+image: casestudy1.jpeg
 hide_post_date: false
 ---
 
