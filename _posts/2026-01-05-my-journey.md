@@ -2,7 +2,7 @@
 layout: post
 title: "My journey"
 author: "Ayushi"
-categories: sample
+# categories: sample
 tags: [sample]
 image: journey.jpeg
 hide_post_date: true

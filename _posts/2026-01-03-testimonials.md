@@ -5,7 +5,7 @@ author: "Ayushi"
 categories: documentation
 tags: [documentation, sample]
 image: testimonials.jpeg
-hide_post_date: false
+hide_post_date: true
 ---
 
 1.  "Accounting & Finance, and International Finance. I enjoyed having
