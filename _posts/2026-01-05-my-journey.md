@@ -1,10 +1,12 @@
 ---
-layout: page
-title: My journey
-permalink: /journey
+layout: post
+title: "My journey"
+author: "Ayushi"
+categories: sample
+tags: [sample]
+image: arctic-1.jpg
+hide_post_date: true
 ---
-
-<img src="{{ site.github.url }}/assets/img/cuba-2.jpg" alt="Description" width="300" height="200">
 
 # From Handshakes to Headlines: My Journey from Sales to Marketing
 
