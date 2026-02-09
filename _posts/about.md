@@ -1,0 +1,19 @@
+---
+layout: page
+title: About me
+permalink: /about
+top_image: aboutme.jpeg
+# bottom_image: cuba-2.jpg
+---
+
+I am an early-career marketing professional with a strong
+foundation in sales, customer service, and brand experience. I
+started my career in sales, closing clients and running my own
+small venture, Anaayu Decors, which taught me how to understand
+customers, build trust, and grow a business.
+
+I enjoy learning about how people think and what motivates them,
+and I am now applying this experience to marketing strategy,
+content, and campaigns. My goal is to combine my hands-on
+experience with digital marketing knowledge to help brands engage
+customers and grow.
