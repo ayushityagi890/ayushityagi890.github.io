@@ -5,7 +5,7 @@ author: "Ayushi"
 categories: resources
 tags: [documentation, sample]
 image: casestudy1.jpeg
-hide_post_date: false
+hide_post_date: true
 ---
 
 # #1: Limber Women’s Fitness Studio
